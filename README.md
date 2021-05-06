@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=TIM168&theme=radical&langs_count=6&layout=compact"><img alt="TIM168 Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIM168&theme=radical&langs_count=6&layout=compact" /></a>
  </p>
-<h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=TIM168&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /></h2>
+<h2>🔌Thanks you <img src="https://komarev.com/ghpvc/?username=TIM168&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /></h2>
 
 <h2>👩‍💻 Skills</h2>
 
@@ -36,6 +36,10 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=TIM168&theme=dracula" alt="ryihan" />
 </p>
 
+<p align="center">
+<a  href="https://github-readme-stats.vercel.app/api?username=TIM168&count_private=true&show_icons=true&theme=radical"><img alt="TIM168 Activity Graph" src="https://github-readme-stats.vercel.app/api?username=TIM168&count_private=true&show_icons=true&theme=radical" /></a>
+</p>
+
 <h2>📊 Stats</h2>
 
 <p align="center">
@@ -43,7 +47,10 @@
 </p>
 
 
-<p align="center">
-<a  href="https://github-readme-stats.vercel.app/api?username=TIM168&count_private=true&show_icons=true&theme=radical"><img alt="TIM168 Activity Graph" src="https://github-readme-stats.vercel.app/api?username=TIM168&count_private=true&show_icons=true&theme=radical" /></a>
-  
-</p>
+<h2>💻 More Repositories</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
