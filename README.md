@@ -13,7 +13,8 @@
 <h2>👩‍💻 Skills</h2>
 
 <p align="center">
-  <a href="https://www.python.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Python/python.svg" alt="python" width="40" height="40"/>
+  
+  <a href="https://www.python.org"><img src="https://github.com/TIM168/skill_icon/blob/main/Python/python.svg" alt="python" width="40" height="40"/>
   <a href="https://code.visualstudio.com"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" alt="vscode" width="40" height="40"/>
   <a href="https://www.arduino.cc"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Arduino/arduino.png" alt="arduino" width="40" height="40"/>
   <a href="https://www.ti.com/tool/CCSTUDIO"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Code%20Composer/ccstudio.jpg" alt="codecomposer" width="40" height="40"/>
