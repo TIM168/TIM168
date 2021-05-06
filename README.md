@@ -49,8 +49,8 @@
 
 <h2>💻 More Repo</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tim168&repo=skill_icon)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tim168&repo=architect-awesome)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tim168&repo=skill_icon)](https://github.com/TIM168/skill_icon)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tim168&repo=architect-awesome)](https://github.com/TIM168/architect-awesome)
 
 
 
