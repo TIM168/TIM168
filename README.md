@@ -18,6 +18,7 @@
   <a href="https://golang.google.cn/"><img src="https://github.com/TIM168/skill_icon/blob/main/Go/go.svg" alt="go" width="40" height="40"/>
   <a href="https://www.python.org"><img src="https://github.com/TIM168/skill_icon/blob/main/Python/python.svg" alt="python" width="40" height="40"/>  
   <a href="https://redis.io/"><img src="https://github.com/TIM168/skill_icon/blob/main/Redis/Redis.svg" alt="redis" width="40" height="40"/>
+  <a href="https://www.rabbitmq.com/"><img src="https://github.com/TIM168/skill_icon/blob/main/RabbitMq/RabbitMQ.svg" alt="rabbitmq" width="40" height="40"/>
   <a href="https://www.docker.com/"><img src="https://github.com/TIM168/skill_icon/blob/main/Docker/docker.svg" alt="docker" width="40" height="40"/>
   <a href="https://grafana.com/"><img src="https://github.com/TIM168/skill_icon/blob/main/Grafana/grafana.svg" alt="grafana" width="40" height="40"/>
   <a href="https://www.postgresql.org"><img src="https://github.com/TIM168/skill_icon/blob/main/Postgresql/postgresql.svg" alt="postgresql" width="40" height="40"/>
