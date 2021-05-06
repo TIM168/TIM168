@@ -14,18 +14,16 @@
 
 <p align="center">
   <a href="https://www.php.net/"><img src="https://github.com/TIM168/skill_icon/blob/main/PHP/php.svg" alt="php" width="40" height="40"/>
+  <a href="https://laravel.com/"><img src="https://github.com/TIM168/skill_icon/blob/main/Laravel/laravel.svg" alt="laravel" width="40" height="40"/>
   <a href="https://www.python.org"><img src="https://github.com/TIM168/skill_icon/blob/main/Python/python.svg" alt="python" width="40" height="40"/>
-  <a href="https://code.visualstudio.com"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" alt="vscode" width="40" height="40"/>
-  <a href="https://www.arduino.cc"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Arduino/arduino.png" alt="arduino" width="40" height="40"/>
-  <a href="https://www.ti.com/tool/CCSTUDIO"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Code%20Composer/ccstudio.jpg" alt="codecomposer" width="40" height="40"/>
+  <a href="https://www.docker.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Docker/docker.svg" alt="docker" width="40" height="40"/>
+  <a href="https://grafana.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Grafana/grafana.svg" alt="grafana" width="40" height="40"/>
   <a href="https://www.postgresql.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Postgresql/postgresql.svg" alt="postgresql" width="40" height="40"/>
   <a href="https://www.influxdata.com"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/InfluxDB/influxdata.svg" alt="influxdb" width="40" height="40"/>
   <a href="https://git-scm.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Git/git.svg" alt="git" width="40" height="40"/>
-  <a href="https://gitlab.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/GitLab/gitlab.svg" alt="gitlab" width="40" height="40"/>
   <a href="https://ubuntu.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Ubuntu/ubuntu.svg" alt="ubuntu" width="40" height="40"/>
   <a href="https://www.microsoft.com/pt-br/windows/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Windows/windows.svg" alt="windows" width="40" height="40"/>
-  <a href="https://www.docker.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Docker/docker.svg" alt="docker" width="40" height="40"/>
-  <a href="https://grafana.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Grafana/grafana.svg" alt="grafana" width="40" height="40"/>
+  <a href="https://code.visualstudio.com"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" alt="vscode" width="40" height="40"/>  
 </p>
     
     
