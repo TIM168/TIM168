@@ -8,7 +8,10 @@
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=TIM168&theme=radical&langs_count=6&layout=compact"><img alt="TIM168 Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIM168&theme=radical&langs_count=6&layout=compact" /></a>
  </p>
-<h2>🔌Thanks you <img src="https://komarev.com/ghpvc/?username=TIM168&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /></h2>
+<h2> Visitors <img src="https://komarev.com/ghpvc/?username=TIM168&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /></h2>
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=tim168&theme=flat&column=6&margin-w=10" alt="logo" height="160" align="center" />  
 
 <h2>👩‍💻 Skills</h2>
 
