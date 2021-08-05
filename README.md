@@ -16,6 +16,7 @@
 <h2>👩‍💻 Skills</h2>
 
 <p align="center">
+  <a href="https://www.java.com/"><img src="https://github.com/TIM168/skill_icon/blob/main/Java/java.svg" alt="java" width="40" height="40"/>
   <a href="https://www.php.net/"><img src="https://github.com/TIM168/skill_icon/blob/main/PHP/php.svg" alt="php" width="40" height="40"/>
   <a href="https://laravel.com/"><img src="https://github.com/TIM168/skill_icon/blob/main/Laravel/laravel.svg" alt="laravel" width="40" height="40"/>
   <a href="https://golang.google.cn/"><img src="https://github.com/TIM168/skill_icon/blob/main/Go/go.svg" alt="go" width="40" height="40"/>
